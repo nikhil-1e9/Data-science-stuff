@@ -1,6 +1,8 @@
 # Data-science-stuff
 Here I will post link to articles, tutorials, projects. books, etc related to Data Science and Machine Learning
 
+Also you can click the watch button to follow this repo and stay tuned regarding future updates! :)
+
 ### Articles
 - A great series of blog posts on how to build a *Data Science Portfolio*
   - [1. Storytelling with Data](https://www.dataquest.io/blog/data-science-portfolio-project/)
