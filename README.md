@@ -12,3 +12,5 @@ Also you can click the watch button to follow this repo and stay tuned regarding
   - [5. Presenting the Portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
 
 - A great series of blog posts on how to master **NLP** from scratch by Chirag Goyal. This series comprises of 20 articles in total that ranges from beginner to advanced level. [Link](https://www.analyticsvidhya.com/?s=step+by+step+guide+to+master+nlp)
+
+- [LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
