@@ -14,3 +14,4 @@ Also you can click the watch button to follow this repo and stay tuned regarding
 - A great series of blog posts on how to master **NLP** from scratch by Chirag Goyal. This series comprises of 20 articles in total that ranges from beginner to advanced level. [Link](https://www.analyticsvidhya.com/?s=step+by+step+guide+to+master+nlp)
 
 - [LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- An excellent blog on [RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) by [Andrej Karpathy](https://karpathy.ai/) 
