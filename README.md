@@ -1,7 +1,7 @@
 # Data-science-stuff
-Here I will post link to articles, tutorials, projects. books, etc related to Data Science and Machine Learning
+Here I will post links to articles, tutorials, projects, books, etc related to Data Science and Machine Learning
 
-Also you can click the watch button to follow this repo and stay tuned regarding future updates! :)
+Also, you can click the watch button to follow this repo and stay tuned regarding future updates! :)
 
 ### Articles
 - A great series of blog posts on how to build a *Data Science Portfolio*
@@ -11,7 +11,7 @@ Also you can click the watch button to follow this repo and stay tuned regarding
   - [4. Getting the Job](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
   - [5. Presenting the Portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
 
-- A great series of blog posts on how to master **NLP** from scratch by Chirag Goyal. This series comprises of 20 articles in total that ranges from beginner to advanced level. [Link](https://www.analyticsvidhya.com/?s=step+by+step+guide+to+master+nlp)
+- A great series of blog posts on how to master **NLP** from scratch by Chirag Goyal. This series comprises 20 articles in total that range from beginner to advanced levels. [Link](https://www.analyticsvidhya.com/?s=step+by+step+guide+to+master+nlp)
 
 - [LSTM networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 - Compilation of blogs and articles by [Andrej Karpathy](https://karpathy.ai/) 
@@ -22,3 +22,8 @@ Also you can click the watch button to follow this repo and stay tuned regarding
 
 ### Tutorials
 - [Kaggle tutorials](https://www.kaggle.com/learn) and guides are a great way of getting started with a particular topic on Machine Learning
+
+
+
+### Blogs
+- Great post on how to contribute and showcase your work. Find it [here](https://medium.com/kaggle-blog/i-trained-a-model-what-is-next-d1ba1c560e26)
