@@ -32,3 +32,11 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
 
 ### Interviews
 - Great repo to find and practice Data Science [Interview questions](https://github.com/alexeygrigorev/data-science-interviews)
+
+
+
+### Datasets
+Some great places to find free datasets
+- [InterviewQuery](https://www.interviewquery.com/p/free-datasets)
+- [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
