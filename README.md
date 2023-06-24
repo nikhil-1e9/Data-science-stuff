@@ -26,9 +26,8 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
 
 
 ### Blogs
-- Great [post] on how to contribute and showcase your work. (https://medium.com/kaggle-blog/i-trained-a-model-what-is-next-d1ba1c560e26)
-- Great [article] on how to start writing data science articles(https://towardsdatascience.com/how-to-start-writing-for-data-science-12bcd0bb51f)
-
+- Great [post](https://medium.com/kaggle-blog/i-trained-a-model-what-is-next-d1ba1c560e26) on how to contribute and showcase your work. 
+- Great [article](https://towardsdatascience.com/how-to-start-writing-for-data-science-12bcd0bb51f) on how to start writing data science articles
 
 ### Interviews
 - Great repo to find and practice Data Science [Interview questions](https://github.com/alexeygrigorev/data-science-interviews)
