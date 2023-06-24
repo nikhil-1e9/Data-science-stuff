@@ -34,6 +34,10 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
 
 
 
+### Networking
+- A comprehensive [guide](https://www.kdnuggets.com/2019/11/data-science-linkedin-profile-guide.html) on how to create a good data science LinkedIn profile
+
+
 ### Datasets
 Some great places to find free datasets
 - [InterviewQuery](https://www.interviewquery.com/p/free-datasets)
