@@ -10,6 +10,7 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
   - [3. Machine Learning Project](https://www.dataquest.io/blog/data-science-portfolio-machine-learning/)
   - [4. Getting the Job](https://www.dataquest.io/blog/build-a-data-science-portfolio/)
   - [5. Presenting the Portfolio](https://www.dataquest.io/blog/how-to-share-data-science-portfolio/)
+- [Data Science career guide](https://www.dataquest.io/blog/data-science-career-guide/) by dataquest.io
 
 - A great series of blog posts on how to master **NLP** from scratch by Chirag Goyal. This series comprises 20 articles in total that range from beginner to advanced levels. [Link](https://www.analyticsvidhya.com/?s=step+by+step+guide+to+master+nlp)
 
