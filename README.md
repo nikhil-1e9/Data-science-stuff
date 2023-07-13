@@ -39,6 +39,7 @@ https://statso.io/case-studies/
 ### Interviews
 - Great repo to find and practice Data Science [Interview questions](https://github.com/alexeygrigorev/data-science-interviews)
 - Data Science Interview questions by [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2023/01/top-100-data-science-interview-questions/)
+- Some [challenges](https://www.knowledgehut.com/blog/data-science/data-science-challenges) faced by data scientists in everyday job
 
 
 
