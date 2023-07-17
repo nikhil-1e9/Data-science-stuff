@@ -29,6 +29,8 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
 ### Blogs
 - Great [post](https://medium.com/kaggle-blog/i-trained-a-model-what-is-next-d1ba1c560e26) on how to contribute and showcase your work. 
 - Great [article](https://towardsdatascience.com/how-to-start-writing-for-data-science-12bcd0bb51f) on how to start writing data science articles
+- [Optuna for hyperparameter optimization](https://medium.com/mlearning-ai/hyper-parameter-tuning-through-grid-search-and-optuna-2bd89a2ece06)
+
 
 
 ### Case Studies
