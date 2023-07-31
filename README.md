@@ -54,3 +54,8 @@ Some great places to find free datasets
 - [InterviewQuery](https://www.interviewquery.com/p/free-datasets)
 - [Awesome datasets](https://github.com/awesomedata/awesome-public-datasets)
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/datasets)
+- 
+
+
+### Generative AI
+- Make powerful [presentations](https://machinelearningmastery.com/creating-a-powerpoint-presentation-using-chatgpt) using ChatGPT
