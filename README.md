@@ -57,5 +57,9 @@ Some great places to find free datasets
 - 
 
 
-### Generative AI
+## Generative AI
+### Usecases
 - Make powerful [presentations](https://machinelearningmastery.com/creating-a-powerpoint-presentation-using-chatgpt) using ChatGPT
+
+### Impacts
+https://in.mashable.com/tech/57232/researchers-jailbreak-ai-chatbots-including-chatgpt
