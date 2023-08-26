@@ -58,6 +58,9 @@ Some great places to find free datasets
 
 
 ## Generative AI
+### Advancements
+- [Summary and explanation of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/#what-they-are)
+
 ### Usecases
 - Make powerful [presentations](https://machinelearningmastery.com/creating-a-powerpoint-presentation-using-chatgpt) using ChatGPT
 
