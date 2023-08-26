@@ -61,6 +61,7 @@ Some great places to find free datasets
 ### Advancements and Ideas
 - [Summary and explanation of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/#what-they-are)
 - [Re-Act framework for LLMs](https://til.simonwillison.net/llms/python-react-pattern)
+- [Q&A using GPT and embeddings](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
 
 ### Usecases
 - Make powerful [presentations](https://machinelearningmastery.com/creating-a-powerpoint-presentation-using-chatgpt) using ChatGPT
