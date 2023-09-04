@@ -64,6 +64,7 @@ Some great places to find free datasets
 - [Q&A using GPT and embeddings](https://simonwillison.net/2023/Jan/13/semantic-search-answers/)
 - [LLMs explained with less math and jargon](https://www.understandingai.org/p/large-language-models-explained-with)
 
+
 ### Usecases
 - Make powerful [presentations](https://machinelearningmastery.com/creating-a-powerpoint-presentation-using-chatgpt) using ChatGPT
 
