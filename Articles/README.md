@@ -1,3 +1,6 @@
+## General
+- [Anatomy of a Data Science problem](https://thecleverprogrammer.com/2023/09/05/steps-to-solve-a-data-science-problem/)
+
 ## Recommendation Systems
 - [Hybrid Recommendation System](https://thecleverprogrammer.com/2023/06/05/hybrid-recommendation-system-using-python/)
 - [Difference between Content-based filtering and Collaborative filtering](https://thecleverprogrammer.com/2023/04/20/content-based-filtering-and-collaborative-filtering-difference/)
