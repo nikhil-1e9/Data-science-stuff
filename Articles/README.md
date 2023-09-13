@@ -11,3 +11,4 @@
 
 ## Time Series
 - [Netflix Subscription forecasting](https://thecleverprogrammer.com/2023/08/07/netflix-subscriptions-forecasting-using-python/)
+- [Time series forecasting using ARIMA](https://thecleverprogrammer.com/2022/06/21/time-series-forecasting-with-arima/)
