@@ -14,5 +14,5 @@
 - [Time series forecasting using ARIMA](https://thecleverprogrammer.com/2022/06/21/time-series-forecasting-with-arima/)
 - [ARIMA in-depth tutorial](https://www.kaggle.com/code/prashant111/arima-model-for-time-series-forecasting)
 
-## Obhect Detection
+## Object Detection
 - [YOLO for object detection](https://www.v7labs.com/blog/yolo-object-detection)
