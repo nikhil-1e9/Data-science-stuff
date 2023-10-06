@@ -20,3 +20,4 @@
 
 ## Applied and Advanced ML
 - [Weighted average ensemble](https://machinelearningmastery.com/weighted-average-ensemble-with-python/)
+- [Optimize LightGBM with Optuna](https://forecastegy.com/posts/how-to-use-optuna-to-tune-lightgbm-hyperparameters/)
