@@ -16,3 +16,7 @@
 
 ## Object Detection
 - [YOLO for object detection](https://www.v7labs.com/blog/yolo-object-detection)
+
+
+## Applied and Advanced ML
+- [Weighted average ensemble](https://machinelearningmastery.com/weighted-average-ensemble-with-python/)
