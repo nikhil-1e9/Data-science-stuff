@@ -22,3 +22,7 @@
 - [Weighted average ensemble](https://machinelearningmastery.com/weighted-average-ensemble-with-python/)
 - [Optimize LightGBM with Optuna](https://forecastegy.com/posts/how-to-use-optuna-to-tune-lightgbm-hyperparameters/)
 - [Ensembling guide: Take model performance to the next level](https://web.archive.org/web/20160304031055/http://mlwave.com/kaggle-ensembling-guide/)
+
+
+## Adversarial ML
+- [Guide to prompt injection attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
