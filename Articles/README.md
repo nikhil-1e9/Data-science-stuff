@@ -26,3 +26,4 @@
 
 ## Adversarial ML
 - [Guide to prompt injection attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
+- [Fooling AI/ML systems](https://medium.com/swlh/how-to-fool-artificial-intelligence-fcf230bf37e)
