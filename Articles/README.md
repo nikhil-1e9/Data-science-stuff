@@ -31,3 +31,4 @@
 ## ML in Production
 - [Building a Reproducible Machine Learning Pipeline](https://arxiv.org/ftp/arxiv/papers/1810/1810.04570.pdf)
 - [Monitoring Machine Learning Systems](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+- [Deploying Machine Learning Models](https://christophergs.com/es/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
