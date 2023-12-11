@@ -1,2 +1,3 @@
-[What are LLMs?](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUNbGxtcyBrYXJwYXRoeQ%3D%3D)
-[Beginner friendly Introduction to RNNs](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [What are LLMs?](https://www.youtube.com/watch?v=zjkBMFhNj_g&pp=ygUNbGxtcyBrYXJwYXRoeQ%3D%3D)
+- [Beginner friendly Introduction to RNNs](https://www.youtube.com/watch?v=UNmqTiOnRfg)
+- [Beginner friendly Introduction to CNNs](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
