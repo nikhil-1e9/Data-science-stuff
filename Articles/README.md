@@ -17,6 +17,8 @@
 ## Object Detection
 - [YOLO for object detection](https://www.v7labs.com/blog/yolo-object-detection)
 
+## NLP
+- [Seq2Seq models](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 
 ## Applied and Advanced ML
 - [Weighted average ensemble](https://machinelearningmastery.com/weighted-average-ensemble-with-python/)
