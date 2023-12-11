@@ -18,7 +18,7 @@ Also, you can click the watch button to follow this repo and stay tuned regardin
 - Compilation of blogs and articles by [Andrej Karpathy](https://karpathy.ai/) 
   - An excellent blog on [RNNs](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
   - Problems with [backpropagation](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b)
-- [Pretrained models in NLP](https://www.ruder.io/nlp-imagenet/)
+- [Advent of Pretrained Language models in NLP](https://www.ruder.io/nlp-imagenet/)
 
 
 
