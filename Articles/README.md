@@ -1,6 +1,9 @@
 ## General
 - [Anatomy of a Data Science problem](https://thecleverprogrammer.com/2023/09/05/steps-to-solve-a-data-science-problem/)
 
+## Statistics
+- [p value easily explained](https://medium.com/@nitin.data1997/p-value-explained-to-a-10-year-old-kid-bc9649c32dd2)
+
 ## A/B Testing
 - [A/B testing for marketing campaign](https://thecleverprogrammer.com/2022/11/14/a-b-testing-using-python/)
 
