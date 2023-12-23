@@ -3,3 +3,4 @@
 
 ## Tips and Tricks
 - [What to know before applying to a data science job](https://hookedondata.org/posts/2018-05-29_advice-for-applying-to-data-science-jobs/)
+- [Insightful tips on interviewing](https://towardsdatascience.com/the-two-sides-of-getting-a-job-as-a-data-scientist-a4571acc58bc)
