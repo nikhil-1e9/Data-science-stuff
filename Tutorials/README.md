@@ -2,3 +2,4 @@
 - [Beginner friendly Introduction to RNNs](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 - [Beginner friendly Introduction to CNNs](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [GPT in 60 lines of code](https://jaykmody.com/blog/gpt-from-scratch)
+- [Guide related to Prompt Engineering](https://www.promptingguide.ai/)
