@@ -3,3 +3,4 @@
 - [Beginner friendly Introduction to CNNs](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 - [GPT in 60 lines of code](https://jaykmody.com/blog/gpt-from-scratch)
 - [Guide related to Prompt Engineering](https://www.promptingguide.ai/)
+- [Developing a RAG-based System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
