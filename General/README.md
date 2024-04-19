@@ -1,0 +1,1 @@
+- [Django Tutorial with Hands-on Projects](https://www.youtube.com/watch?v=ftKiHCDVwfA)
