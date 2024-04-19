@@ -5,3 +5,4 @@
 - [Guide related to Prompt Engineering](https://www.promptingguide.ai/)
 - [Developing a RAG-based System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
 - [RAG from scratch tutorial](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
+- [Complete guide on Statistics for Machine Learning and Data Science](https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/)
