@@ -39,6 +39,7 @@
 - [Monitoring Machine Learning Systems](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
 - [Deploying Machine Learning Models](https://christophergs.com/es/machine%20learning/2019/03/17/how-to-deploy-machine-learning-models/)
 - [Data Drift vs Concept Drift](https://deepchecks.com/data-drift-vs-concept-drift-what-are-the-main-differences/)
+- [Model Deployment Strategies](https://neptune.ai/blog/model-deployment-strategies)
 
 
 ## Frameworks
