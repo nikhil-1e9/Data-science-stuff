@@ -6,3 +6,4 @@
 - [Developing a RAG-based System](https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
 - [RAG from scratch tutorial](https://www.freecodecamp.org/news/mastering-rag-from-scratch/)
 - [Complete guide on Statistics for Machine Learning and Data Science](https://www.freecodecamp.org/news/statistics-for-data-scientce-machine-learning-and-ai-handbook/)
+- [Building a QA Chatbot using RAG and Ollama](https://lightning.ai/lightning-ai/studios/compare-llama-3-and-phi-3-using-rag)
