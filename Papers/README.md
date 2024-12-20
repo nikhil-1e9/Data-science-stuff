@@ -1,3 +1,2 @@
 - Research Papers
-- 
 - Whitepapers
