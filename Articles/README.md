@@ -29,6 +29,8 @@
 - [Optimize LightGBM with Optuna](https://forecastegy.com/posts/how-to-use-optuna-to-tune-lightgbm-hyperparameters/)
 - [Ensembling guide: Take model performance to the next level](https://web.archive.org/web/20160304031055/http://mlwave.com/kaggle-ensembling-guide/)
 
+## LLMs
+- [Strategies to improve RAG systems](https://www.analyticsvidhya.com/blog/2024/08/improving-real-world-rag-systems/)
 
 ## Adversarial ML
 - [Guide to prompt injection attacks](https://www.lakera.ai/blog/guide-to-prompt-injection)
