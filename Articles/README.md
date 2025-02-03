@@ -12,6 +12,7 @@
 - [Difference between Content-based filtering and Collaborative filtering](https://thecleverprogrammer.com/2023/04/20/content-based-filtering-and-collaborative-filtering-difference/)
 - [Crash course on Recommendation systems](https://developers.google.com/machine-learning/recommendation)
 - [Building Production-Grade Movie Recommender System](https://www.freecodecamp.org/news/build-a-movie-recommendation-system-with-python/)
+- [Comrehensive Guide on Recommendation Systems](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python)
 
 ## Time Series
 - [Netflix Subscription forecasting](https://thecleverprogrammer.com/2023/08/07/netflix-subscriptions-forecasting-using-python/)
