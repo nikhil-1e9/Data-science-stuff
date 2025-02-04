@@ -71,3 +71,4 @@ Some great places to find free datasets
 
 ### Impacts
 https://in.mashable.com/tech/57232/researchers-jailbreak-ai-chatbots-including-chatgpt
+[Career impacts of fast paced AI growth](https://pradyuprasad.com/writings/how-to-have-a-career-even-when-o3-drops)
