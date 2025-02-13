@@ -4,3 +4,6 @@
 
 ## Machine Learning
 - [Sebastian Raschka's website](https://sebastianraschka.com/teaching/)
+
+## MLOps
+- [Build Production AI Applications](https://decodingml.substack.com/p/master-production-ai-with-our-end)
