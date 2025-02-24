@@ -47,3 +47,7 @@
 
 ## Frameworks
 - [Creating Apache Spark ML pipeline](https://towardsdatascience.com/your-first-apache-spark-ml-model-d2bb82b599dd)
+
+
+## Agentic AI
+- [Smolagents by Hugging Face](https://huggingface.co/blog/smolagents)
