@@ -51,3 +51,4 @@
 
 ## Agentic AI
 - [Smolagents by Hugging Face](https://huggingface.co/blog/smolagents)
+- [Function Calling](https://docs.mistral.ai/capabilities/function_calling/)
