@@ -1,1 +1,3 @@
 - [Django Tutorial with Hands-on Projects](https://www.youtube.com/watch?v=ftKiHCDVwfA)
+- [Building a blog from scratch using Django](https://realpython.com/build-a-blog-from-scratch-django/)
+- [Deploy your Django project using Heroku](https://realpython.com/django-hosting-on-heroku/)
